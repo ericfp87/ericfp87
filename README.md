@@ -1,5 +1,5 @@
 - 👋 Olá! Eu sou Eric Ferreira.
 - 👀 Tenho interesse em tudo que tem tecnologia, filmes, animes, mangás, séries e uma boa cerveja.
 - 📣 Em busca de oportunidade para entrar no mercado de Engenharia de Dados
-- 🌱 Pós-Graduado em Engenharia de Dados e Graduado em Engenharia de Computação.
-- 🖥️ Mais de 10 anos de experiência no setor de infraestrutura de TI, criando e administrando Windows Server, Firewalls, Domain Controllers, Cloud AWS e suporte, cursos de desenvolvimento Full-stack Python, HTML, CSS, Javascript, Node.js, SQL, Mysql, Oracle, Postgresql, Mongodb. 
+- 🌱 Pós-Graduado em Engenharia de Dados e Graduado em Engenharia de Computação. Cursando Inteligência Artificial e Ciência de Dados.
+- 🖥️ Mais de 15 anos de experiência no setor de infraestrutura de TI, criando e administrando Windows Server, Firewalls, Domain Controllers, Cloud AWS e suporte, cursos de desenvolvimento Full-stack Python, HTML, CSS, Javascript, Node.js, SQL, Mysql, Oracle, Postgresql, Mongodb. 
